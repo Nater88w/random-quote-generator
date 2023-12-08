@@ -26,6 +26,7 @@ body{
     gap:5px;
     font-size:large;
     font-family: Arial, Helvetica, sans-serif;
+    width:100%;
 }
 #icon{
   align-self: flex-start;

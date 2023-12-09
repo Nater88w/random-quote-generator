@@ -26,7 +26,6 @@ export default function Quote({color}){
         <a id="tweet-quote" title="tweet this quote!" href="twitter.com/intent/tweet"><i class="fa-brands fa-twitter fa-lg"></i></a>
         </div>
         </div>
-    )
-}
-    
+    )}
+
     

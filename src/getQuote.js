@@ -21,7 +21,7 @@ export default function Quote({color}){
         <br />
         <b id="author"><i>-{quote.author}</i></b>
         <br />
-        <button id="new-quote" className="button-1" onClick={()=>{color();getQuote()}}>Next Quote</button>
+        <button id="new-quote" className="button-1" onClick={()=>{color();getQuote()}}>New Quote</button>
         <div id="icon">
         <a id="tweet-quote" title="tweet this quote!" href="twitter.com/intent/tweet"><i class="fa-brands fa-twitter fa-lg"></i></a>
         </div>
